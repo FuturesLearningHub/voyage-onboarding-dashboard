@@ -224,7 +224,7 @@ const VOYAGE = {
 
   /* Beyond 90 Days — Grow My Career (courses selected per request; Oracle links only) */
   growth: {
-    skillMatrix: 'https://me5231979.github.io/skill_matrix/',
+    skillMatrix: 'https://futureslearninghub.github.io/skill_matrix/',
     marketplace: [
       { name: 'Talent Marketplace — get started', mins: 30, href: 'https://ecsr.fa.us2.oraclecloud.com/fscmUI/redwood/learner/learn/redirect?learningItemId=300003063355987&learningItemType=ORA_CLASS', info: 'https://www.vanderbilt.edu/pcb/talent-marketplace/' }
     ],

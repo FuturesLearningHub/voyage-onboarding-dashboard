@@ -1,6 +1,6 @@
 # Voyage — Vanderbilt Staff Onboarding Dashboard
 
-A personalized, location- and role-aware onboarding experience for Vanderbilt staff, built in the Futures Learning Hub visual identity (black / white / flat gold — engraved, not bubbly) to match the [Vanderbilt Learning Series Course Library](https://me5231979.github.io/Course_Library/).
+A personalized, location- and role-aware onboarding experience for Vanderbilt staff, built in the Futures Learning Hub visual identity (black / white / flat gold — engraved, not bubbly) to match the [Vanderbilt Learning Series Course Library](https://flh-learning-library.vercel.app/).
 
 ## The experience
 
